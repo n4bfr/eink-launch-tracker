@@ -1,0 +1,11 @@
+Ship; Payload; When; Year; Month; Day
+Falcon 9; Starlink 7; SKD; 2020; 06; 03
+Falcon 9; Crew 01; NET; 2020; 08; 30
+Falcon 9; GPS III; NET; 2020; 06; 30
+Falcon 9; Starlink 8; NET; 2020; 06; 30
+Falcon 9; Starlink 10; NET; 2020; 07; 31
+Falcon 9; SAOCOM 1B; NET; 2020; 07; 31
+Falcon 9; SXM-7; SKD; 2020; 08; 01
+Starship; 150M Hop; NET; 2020; 06; 30
+Starship; 3K Hop; NET; 2020; 06; 30
+Starship; Moon; NET; 2024; 01; 01	
